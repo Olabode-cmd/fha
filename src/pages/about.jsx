@@ -422,7 +422,7 @@ const About = () => {
         </section>
 
         {/* Team Section */}
-        <section className="py-20 bg-gradient-to-br from-slate-50 to-white relative overflow-hidden">
+        {/* <section className="py-20 bg-gradient-to-br from-slate-50 to-white relative overflow-hidden">
           <div className="max-w-7xl mx-auto px-6 lg:px-8 w-full">
             <div className="text-center mb-16">
               <div className="inline-flex items-center px-4 py-2 bg-slate-100 rounded-full mb-6">
@@ -475,7 +475,7 @@ const About = () => {
               ))}
             </div>
           </div>
-        </section>
+        </section> */}
 
         <Footer />
       </div>
